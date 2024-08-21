@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumeet</h1>
-<p align="left"> <a href="https://twitter.com/sumeet-srknec" target="blank"><img src="https://img.shields.io/twitter/follow/sumeet-srknec?logo=twitter&style=for-the-badge" alt="sumeet-srknec" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sumeet_srknec" target="blank"><img src="https://img.shields.io/twitter/follow/sumeet-srknec?logo=twitter&style=for-the-badge" alt="sumeet-srknec" /></a> </p>
 
 - 🌱 I’m currently learning **React, Spring Boot**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sumeet-srknec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumeet-srknec" height="30" width="40" /></a>
+<a href="https://twitter.com/sumeet_srknec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumeet-srknec" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumeet-sharma-bio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumeet-sharma-bio" height="30" width="40" /></a>
 </p>
 
