@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/sumeet_srknec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumeet-srknec" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumeet-sharma-bio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumeet-sharma-bio" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,10 +28,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeet-srknec&" alt="sumeet-srknec" /></p>
 
 
-## ❤ Views and Followers
+## ❤ Views
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=sumeet-srknec">
-<img src="https://img.shields.io/github/followers/sumeet-srknec?label=Followers&style=social" alt="GitHub Badge">
 </p>
 
 
