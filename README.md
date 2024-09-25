@@ -22,8 +22,16 @@
 
 <p><img src="https://myreadme.vercel.app/api/embed/sumeet-srknec?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumeet-srknec&show_icons=true&locale=en&layout=compact" alt="sumeet-srknec" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeet-srknec&" alt="sumeet-srknec" /></p>
+
+
+## ❤ Views and Followers
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=sumeet-srknec">
+<img src="https://img.shields.io/github/followers/sumeet-srknec?label=Followers&style=social" alt="GitHub Badge">
+</p>
 
 
 
