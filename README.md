@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Spring Boot**
 
-- 💬 Ask me about **React, Spring Framework, Backend Engineering, Security, Performance**
+- 💬 Ask me about **React, Spring Framework, Backend Engineering, Application Security & Performance Engineering**
 
 - 📫 How to reach me **sumeet.srknec@gmail.com**
 
