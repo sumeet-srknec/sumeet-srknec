@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumeet</h1>
 <p align="left"> <a href="https://twitter.com/sumeet_srknec" target="blank"><img src="https://img.shields.io/twitter/follow/sumeet-srknec?logo=twitter&style=for-the-badge" alt="sumeet-srknec" /></a> </p>
 
-- 🌱 I’m currently learning **Gen-Ai, ML Algos, Adeversarial Models, React, Spring Boot, GitHub Workflows, S/W Architectures**
+- 🌱 I’m currently learning **Gen-AI, ML Algos, Adeversarial Models, React, Spring Boot, GitHub Workflows, S/W Architectures**
 
 - 💬 Ask me about **React, Spring Framework, Backend Engineering, Application Security & Performance Engineering**
 
