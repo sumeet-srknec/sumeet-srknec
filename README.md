@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumeet</h1>
-<p align="left"> <a href="https://twitter.com/sumeet_srknec" target="blank"><img src="https://img.shields.io/twitter/follow/sumeet-srknec?logo=twitter&style=for-the-badge" alt="sumeet-srknec" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sumeet_srknec" target="blank"><img src="https://img.shields.io/twitter/follow/sumeet-srknec?style=flat-square&logo=x&logoColor=black&labelColor=blue&color=blue" alt="sumeet-srknec" /></a> </p>
 
 - 🌱 I’m currently learning **Gen-AI, ML Algos, Adversarial Models, React, Spring Boot, GitHub Workflows, S/W Architectures**
 
