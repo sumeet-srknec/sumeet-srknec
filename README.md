@@ -58,7 +58,6 @@
 <table align="top">
   <tr align="top">
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeet-srknec&theme=blue-green" alt="sumeet-srknec" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeet-srknec&theme=blue-green" alt="sumeet-srknec" /></td>
   </tr>
 </table>
 
